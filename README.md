@@ -1,3 +1,5 @@
+This project scapes book data for every book from http://books.toscrape.com/ and exports the data to excel files
+
 1. Create a virtual environment 
 2. Install all packages in the "requirements.txt" file
 3. Create a folder called "cvs_files" to hold all excel files that code will generate
